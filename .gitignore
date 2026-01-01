@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+*.pick
+
+# Test files
+TEST.PY.py
