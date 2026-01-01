@@ -1,4 +1,5 @@
 #StudentInformationSystem.py
+# Student Management System - Python Mini Project
 from StudentMenu import menu
 from StudentAdd import Recordadd
 from StudentDelete import RecordDel
