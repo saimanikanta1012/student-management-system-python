@@ -23,21 +23,22 @@ This project allows users to manage student records efficiently using CRUD opera
 - Modular Programming
 
 ---
-
 ## 📂 Project Structure
-Student_Management_System/
-│
-├── StudentInformationSystem.py
-├── StudentMenu.py
-├── StudentAdd.py
-├── StudentDelete.py
-├── StudentUpdate.py
-├── StudentView.py
-├── NameValidationException.py
-├── NameValidationProcess.py
-├── README.md
-└── .gitignore
 
+```
+   Student_Management_System/
+   │
+   ├── StudentInformationSystem.py
+   ├── StudentMenu.py
+   ├── StudentAdd.py
+   ├── StudentDelete.py
+   ├── StudentUpdate.py
+   ├── StudentView.py
+   ├── NameValidationException.py
+   ├── NameValidationProcess.py
+   ├── README.md
+   └── .gitignore
+```
 ---
 
 ## ▶️ How to Run the Project
@@ -48,12 +49,13 @@ Student_Management_System/
 Navigate to the project folder
 
 Run the main file:
+   ```bash
+   python StudentInformationSystem.py
+   ```
 
-bash
-Copy code
-python StudentInformationSystem.py
+---
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Strong understanding of Python fundamentals
 
@@ -63,7 +65,9 @@ Improved knowledge of file handling and exception handling
 
 Experience in building a modular Python application
 
-🚀 Future Enhancements
+---
+
+## 🚀 Future Enhancements
 
 Convert CLI application to Django web application
 
@@ -73,7 +77,9 @@ Add search by name and marks range
 
 Implement role-based access
 
-👤 Author
+---
+
+## 👤 Author
 
 Sai Manikanta Tippana
 GitHub: https://github.com/saimanikanta1012
